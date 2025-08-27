@@ -1,0 +1,7 @@
+[submodule "LittleEngine/thirdparty/SDL"]
+	path = LittleEngine/thirdparty/SDL
+	url = https://github.com/libsdl-org/SDL.git
+
+[submodule "LittleEngine"]
+	path = LittleEngine
+	url = https://github.com/FyX0X/LittleEngine.git
