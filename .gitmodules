@@ -5,3 +5,6 @@
 [submodule "LittleEngine"]
 	path = LittleEngine
 	url = https://github.com/FyX0X/LittleEngine.git
+[submodule "thirdparty/Eigen"]
+	path = thirdparty/Eigen
+	url = https://gitlab.com/libeigen/eigen

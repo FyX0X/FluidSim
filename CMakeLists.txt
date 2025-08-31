@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(TemplateGame)
+project(FluidSim)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -17,9 +17,6 @@ add_subdirectory(LittleEngine)
 
 # Add game as an executable that links to engine
 add_subdirectory(game)
-
-
-
 
 
 
